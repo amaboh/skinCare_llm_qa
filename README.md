@@ -1,7 +1,7 @@
-project_name
+SKINCARE_LLM_QA
 ==============================
 
-A short description of the project.
+This is a chat app to provide insides on skincare products built with open source technologies and tools. 
 
 Project Organization
 ------------
@@ -19,9 +19,9 @@ Project Organization
     │
     ├── models             <- Trained and serialized models, model predictions, or model summaries
     │
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
+    ├── notebooks          <- Jupyter notebooks.
+    │                         
+    │                         
     │
     ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
     │
@@ -52,6 +52,3 @@ Project Organization
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
 
---------
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
